@@ -1,6 +1,8 @@
 # desafio_login
 
-Projeto flutter de login.
+Projeto flutter de login. <br>
+<br>
+Projeto em flutter de uma mobile login page, do 4º semestre de Análise e Desenvolvimento de Sistemas
 
 ## Getting Started
 
